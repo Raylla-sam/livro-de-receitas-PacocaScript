@@ -11,4 +11,3 @@ Aqui reunimos pratos deliciosos criados pela equipe PaçocaScript.
 - [Sobremesas](sobremesas/)
  
 ## Receitas
-- [Pudim de Leite](sobremesas/pudim-de-leite.md)
