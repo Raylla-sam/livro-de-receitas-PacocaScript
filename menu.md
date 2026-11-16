@@ -13,3 +13,4 @@ Aqui reunimos pratos deliciosos criados pela equipe PaçocaScript.
 ## Receitas
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
 - [Salada de Maionese](saladas/SaladaDeMaionese.md)
+- [Strogonoff de Frango](carnes/strogonoff.md)
