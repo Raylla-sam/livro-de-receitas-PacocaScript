@@ -17,3 +17,4 @@ Aqui reunimos pratos deliciosos criados pela equipe PaçocaScript.
 - [Carne de Panela](carnes/carne-de-panela.md)
 - [Salada de Maionese](saladas/SaladaDeMaionese.md)
 - [Strogonoff de Frango](carnes/strogonoff.md)
+- [Lasanha de Frango](massas/lasanha-de-frango.md)
