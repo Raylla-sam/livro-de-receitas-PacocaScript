@@ -31,4 +31,7 @@
 ### Calda de chocolate
 1. Em um recipiente próprio para micro-ondas (ou em banho-maria), derreta o chocolate meio amargo de 30 em 30 segundos, mexendo a cada intervalo.
 2. Acrescente o creme de leite e mexa bem até formar uma ganache lisa, brilhante e homogênea.
-3. Cubra o bolo com a calda e, se quiser, decore com granulado.
+3. Cubra o bolo com a calda e se quiser decore com granulado.
+
+[Voltar ao Menu Principal](../menu.md)
+
