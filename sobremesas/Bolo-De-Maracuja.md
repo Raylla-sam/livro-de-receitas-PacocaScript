@@ -16,6 +16,7 @@
 - Granulado a gosto (opcional, para decorar)
 
 
+
 ## Modo de preparo
 ### Massa
 1. No liquidificador (ou na batedeira), bata os ovos, o açúcar e a manteiga até obter um creme claro e fofo.
